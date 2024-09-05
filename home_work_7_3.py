@@ -17,4 +17,4 @@ assert second_index("hi", "h") is None, 'Test3'
 assert second_index("Hello, hello", "lo") == 10, 'Test4'
 print('ОК')
 
-# second_index("sims", "s")
+# second_index("sims", "s") # ручна перевірка
